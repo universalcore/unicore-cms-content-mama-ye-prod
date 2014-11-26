@@ -1,0 +1,28 @@
+{
+  "subtitle": "", 
+  "description": "Un tout nouveau monde pour votre b\u00e9b\u00e9.", 
+  "language": "fre_FR", 
+  "title": "Votre b\u00e9b\u00e9", 
+  "primary_category": "c6c39d09bea640889711cd34689c9bc5", 
+  "created_at": "2014-11-26T10:55:20.413286+00:00", 
+  "featured_in_category": true, 
+  "modified_at": "2014-11-26T10:55:20.413659+00:00", 
+  "_version": {
+    "package_version": "0.2.9", 
+    "language_version": "2.7.6", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
+    "language": "python", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "Votre b\u00e9b\u00e9 est tout nouveau dans ce grand monde bruyant ! Il fait des mouvements brusques pour s'y habituer. Ses mouvements seront bient\u00f4t moins brusques. \r\nVous pouvez penser que votre b\u00e9b\u00e9 n'a pas assez de lait. S'il mange toutes les 2 ou 3 heures ou au moins 8 fois par jour, alors il a assez de lait. V\u00e9rifiez la couleur des selles de votre b\u00e9b\u00e9 pour vous assurer qu'il a assez de lait. Ses selles sont noires au d\u00e9part, puis deviennent jaunes vers le 4\u00e8me jour.\r\nVotre b\u00e9b\u00e9 peut sucer votre sein, l'attraper, cligner des yeux et chercher votre t\u00e9ton. Il vous regardera parfois dans les yeux. Il est pr\u00e9f\u00e9rable de le regarder aussi, de sourire et de bouger la t\u00eate.  Il apprend vite !\r\nQuand il aura environ deux semaines, votre b\u00e9b\u00e9 essaiera de lever la t\u00eate lorsqu'il est couch\u00e9 sur le ventre. Il pourra tourner la t\u00eate de gauche \u00e0 droite. \u00c7a lui permettra de d\u00e9velopper ses muscles.  \t\r\nQuand il aura environ un mois, les mouvements de votre b\u00e9b\u00e9 seront moins brusques.  Il devient de plus en plus fort chaque jour et il d\u00e9couvre le monde autour de lui. \r\nVous remarquerez que votre b\u00e9b\u00e9 commence \u00e0 gazouiller. C'est sa mani\u00e8re de vous parler. Parlez-lui aussi. Continuez \u00e0 lui parler lorsque vous le posez et que vous vous \u00e9loignez de lui. \r\n", 
+  "source": null, 
+  "featured": false, 
+  "image": null, 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://qa.thumbor.unicore.io", 
+  "slug": "votre-bebe", 
+  "uuid": "761c165867ce404a8a0c95d18fd9a095"
+}
