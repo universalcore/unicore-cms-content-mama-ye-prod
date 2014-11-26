@@ -5,13 +5,13 @@
   "title": "3 mois", 
   "primary_category": "c6c39d09bea640889711cd34689c9bc5", 
   "created_at": "2014-11-26T12:01:59+00:00", 
-  "featured_in_category": false, 
-  "modified_at": "2014-11-26T12:02:31.237185+00:00", 
+  "featured_in_category": true, 
+  "modified_at": "2014-11-26T12:27:00.525839+00:00", 
   "_version": {
     "package_version": "0.2.9", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
@@ -23,7 +23,7 @@
   "featured": false, 
   "image": null, 
   "published": null, 
-  "position": 0, 
+  "position": 10, 
   "image_host": "http://qa.thumbor.unicore.io", 
   "slug": "3-mois", 
   "uuid": "4d049df481884c4281310653360e3909"
