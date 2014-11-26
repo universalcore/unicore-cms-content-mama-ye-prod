@@ -4,24 +4,26 @@
   "language": "fre_FR", 
   "title": "7 mois ", 
   "primary_category": "c6c39d09bea640889711cd34689c9bc5", 
-  "created_at": "2014-11-26T12:08:10.850185+00:00", 
+  "created_at": "2014-11-26T12:08:10+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2014-11-26T12:08:10.850467+00:00", 
+  "modified_at": "2014-11-26T12:25:08.166355+00:00", 
   "_version": {
     "package_version": "0.2.9", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "4ed0e02455424c30bae6da194bc9f678"
+  ], 
   "id": null, 
   "content": "Votre b\u00e9b\u00e9 commence \u00e0 vouloir manger tout seul. Il peut attraper la cuiller quand vous lui donnez \u00e0 manger ou prendre de la nourriture dans votre assiette. Vous pouvez mettre de petits morceaux de nourriture dans son assiette. Il aimera les prendre et les manger ! Les filles mangent autant que les gar\u00e7ons. \r\nVotre b\u00e9b\u00e9 peut beaucoup manger, mais il n'a pas beaucoup de dents. Commencez par lui donner de la nourriture qu'il peut manger sans dents et qui peut tenir dans sa bouche. \r\nLes b\u00e9b\u00e9s sont curieux \u00e0 cet \u00e2ge. Votre b\u00e9b\u00e9 peut jeter des jouets loin de lui ou tirer les cheveux de ses fr\u00e8res. Ce n'est pas m\u00e9chant, il d\u00e9couvre. Il ne se souviendra pas longtemps des choses, donc \u00e7a ne sert \u00e0 rien de le gronder. Il sera facilement distrait. Vous pouvez donc lui montrer un jouet ou chanter une chanson pour le distraire s'il fait quelque chose que vous ne voulez pas qu'il fasse.\r\nNe vous inqui\u00e9tez pas si votre b\u00e9b\u00e9 a des espaces entre les dents. Ces espaces dispara\u00eetront quand il aura environ 3 ans, une fois qu'il aura toutes ses premi\u00e8res dents. \r\n\u00c0 cet \u00e2ge, votre b\u00e9b\u00e9 pleure quand vous sortez. Il est tellement attach\u00e9 \u00e0 vous qu'il pleure quand vous le laissez, m\u00eame si ce n'est qu'une minute. C'est normal. Le laisser pendant quelque temps lui permettra de s'habituer \u00e0 d'autres gens. Il saura bient\u00f4t que vous reviendrez toujours.\r\nVotre b\u00e9b\u00e9 sait maintenant mieux vous faire comprendre ce qu\u2019il ressent. Il peut faire des bisous aux gens qu'il connait. Il commence \u00e0 conna\u00eetre l'humeur des gens et \u00e0 copier cette humeur. S'il voit une personne pleurer, il pleure aussi.\r\n", 
   "source": null, 
   "featured": false, 
   "image": null, 
   "published": null, 
-  "position": 0, 
+  "position": 5, 
   "image_host": "http://qa.thumbor.unicore.io", 
   "slug": "7-mois", 
   "uuid": "979b22f2c3774c058a1a0f91636801a6"
