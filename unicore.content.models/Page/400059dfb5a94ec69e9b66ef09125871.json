@@ -6,12 +6,12 @@
   "primary_category": "24af8e355b9840ac98d2a441b37b1a62", 
   "created_at": "2014-11-26T10:25:48+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2014-11-28T11:28:11.015028+00:00", 
+  "modified_at": "2014-11-29T19:39:20.413850+00:00", 
   "_version": {
     "package_version": "0.2.9", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
@@ -24,7 +24,7 @@
   "featured": true, 
   "image": null, 
   "published": null, 
-  "position": 0, 
+  "position": 6, 
   "image_host": "http://qa.thumbor.unicore.io", 
   "slug": "9eme-mois", 
   "uuid": "400059dfb5a94ec69e9b66ef09125871"
