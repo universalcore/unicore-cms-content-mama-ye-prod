@@ -1,0 +1,32 @@
+{
+  "subtitle": "Faites attention, le b\u00e9b\u00e9 se d\u00e9place !", 
+  "description": "Faites attention, le b\u00e9b\u00e9 se d\u00e9place !", 
+  "language": "fre_FR", 
+  "title": "8 mois", 
+  "primary_category": "c6c39d09bea640889711cd34689c9bc5", 
+  "created_at": "2014-11-26T12:09:12+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-02-20T09:52:06.299467+00:00", 
+  "_version": {
+    "package_version": "0.2.9", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [
+    "979b22f2c3774c058a1a0f91636801a6", 
+    "abc6c57c2c004e29826baab028620b5e"
+  ], 
+  "id": null, 
+  "content": "R\u00e9alis\u00e9 par BabyCenter.\r\n\r\n\u00c0 cet \u00e2ge, votre b\u00e9b\u00e9 peut savoir ramper, ou se tra\u00eener sur les fesses. Lorsque votre b\u00e9b\u00e9 commence \u00e0 se d\u00e9placer, il peut se cogner ou tomber. C'est normal. Regardez-le d\u00e9couvrir la maison, mais \u00e9loignez tout ce qui peut \u00eatre dangereux pour lui. \r\n\r\nVotre b\u00e9b\u00e9 d\u00e9couvre les objets en les secouant, en les frappant contre d'autres objets, en les laissant tomber ou en les jetant. Il d\u00e9couvre tout ce qu'il peut faire \u00e0 un objet.  \r\n\r\nVotre b\u00e9b\u00e9 commencera \u00e0 s'int\u00e9resser aux objets que vous utilisez. Il commencera petit \u00e0 petit \u00e0 utiliser les objets comme il faut. Il essaiera de se brosser les cheveux ou de boire dans une tasse.\r\n\r\nVotre b\u00e9b\u00e9 voit tr\u00e8s bien \u00e0 cet \u00e2ge. Il voit presque aussi bien que vous. Il peut reconnaitre des objets ou des gens de l'autre c\u00f4t\u00e9 de la pi\u00e8ce o\u00f9 il se trouve. Il peut voir un jouet de l'autre c\u00f4t\u00e9 de la pi\u00e8ce et essayer de ramper pour le prendre. \u00c0 cet \u00e2ge, ses yeux sont proches de leur couleur d\u00e9finitive. Mais elle peut encore l\u00e9g\u00e8rement changer plus tard.\r\n\r\nVotre b\u00e9b\u00e9 se tiendra bient\u00f4t debout et fera des pas en s'appuyant contre les murs ou en tenant les chaises et les tables de la maison. ", 
+  "source": "7f7f87aee5cd46d79d3c25912d9efb69", 
+  "featured": true, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 8, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "8-mois", 
+  "uuid": "dc317dd5bb1f4e9d830ae268e93b86c5"
+}

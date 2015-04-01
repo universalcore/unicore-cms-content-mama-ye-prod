@@ -1,0 +1,32 @@
+{
+  "subtitle": "Votre b\u00e9b\u00e9 peut se retourner sur le dos ou sur le ventre !", 
+  "description": "Votre b\u00e9b\u00e9 peut se retourner sur le dos ou sur le ventre !", 
+  "language": "fre_FR", 
+  "title": "5 mois", 
+  "primary_category": "c6c39d09bea640889711cd34689c9bc5", 
+  "created_at": "2014-11-26T12:06:13+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-02-20T09:45:34.837541+00:00", 
+  "_version": {
+    "package_version": "0.2.9", 
+    "language_version": "2.7.6", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
+    "language": "python", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [
+    "871e3bd55b9148d3935aa7fe23f99887", 
+    "4ed0e02455424c30bae6da194bc9f678"
+  ], 
+  "id": null, 
+  "content": "R\u00e9alis\u00e9 par BabyCenter.\r\n\r\nVotre b\u00e9b\u00e9 ne s'exprime pas comme vous, mais il vous fera savoir s'il est f\u00e2ch\u00e9, content ou s'il s'ennuie. Il vous montre son amour pour vous et il peut lever les bras quand il veut \u00eatre port\u00e9. Il peut aussi pleurer lorsque vous sortez de la pi\u00e8ce o\u00f9 il est. \r\n\r\nIl est plus fort \u00e0 cet \u00e2ge. Vous pouvez le faire asseoir sur le sol et vous verrez qu'il peut rester assis tout seul pendant quelque temps. Posez des coussins autour de lui et restez pr\u00e8s de lui pour pouvoir le rattraper s'il tombe. \r\n\r\nIl peut se retourner brusquement ! Ne le laissez pas seul sur le lit ou sur un endroit haut. Il peut se retourner et tomber. Vous pouvez placer un morceau de tissu propre sur le sol et poser votre b\u00e9b\u00e9 dessus pour lui changer la couche.\r\n\r\nVotre b\u00e9b\u00e9 peut voir encore mieux qu'avant. Il peut maintenant voir de petits objets et regarder un objet qui se d\u00e9place. Cachez un de ses jouets pr\u00e9f\u00e9r\u00e9s en ne laissant voir qu'une petite partie. Il sera content de le trouver ! \r\n\r\nVotre b\u00e9b\u00e9 peut vous imiter. Tirez la langue et gonflez les joues et voyez s'il vous imite.\t\r\n\r\nVotre b\u00e9b\u00e9 voit et entend maintenant presque aussi bien que vous. Il apprend rapidement \u00e0 mieux s'exprimer. Les sons qu'il fait expriment ses sentiments. Il peut \u00eatre content d'avoir trouv\u00e9 la solution \u00e0 un probl\u00e8me.\r\n\r\nIl peut commencer \u00e0 babiller, \u00e0 r\u00e9p\u00e9ter des sons comme \u00ab ba \u00bb, \u00ab ma \u00bb ou \u00ab ga \u00bb. Il commence \u00e0 apprendre \u00e0 parler.", 
+  "source": "fb452b5081b3461faf35c88a7ca7ce72", 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 5, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "5-mois", 
+  "uuid": "0110dc93e7c14128af391e588025a294"
+}

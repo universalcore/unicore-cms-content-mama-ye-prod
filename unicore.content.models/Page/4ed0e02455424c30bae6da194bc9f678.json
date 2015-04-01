@@ -1,0 +1,32 @@
+{
+  "subtitle": "Donnez-lui autre chose que du lait.", 
+  "description": "Donnez-lui autre chose que du lait.", 
+  "language": "fre_FR", 
+  "title": "6 mois", 
+  "primary_category": "c6c39d09bea640889711cd34689c9bc5", 
+  "created_at": "2014-11-26T12:07:11+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-02-20T09:46:23.605247+00:00", 
+  "_version": {
+    "package_version": "0.2.9", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [
+    "0110dc93e7c14128af391e588025a294", 
+    "979b22f2c3774c058a1a0f91636801a6"
+  ], 
+  "id": null, 
+  "content": "R\u00e9alis\u00e9 par BabyCenter.\r\n\r\nVotre b\u00e9b\u00e9 est pr\u00eat \u00e0 manger la m\u00eame nourriture que vous en plus du lait. Commencez par lui donner juste un peu de nourriture : une cuiller\u00e9e est suffisante. Il aimera beaucoup la nourriture \u00e9cras\u00e9e. Asseyez-vous en face de lui et donnez-lui de la nourriture \u00e9cras\u00e9e avec une cuiller ou avec vos doigts propres. Il aura besoin de temps pour apprendre comment utiliser sa langue avec la nourriture et comment l'avaler. Soyez patiente. Il apprendra. \r\n\r\nCommencez par lui donner de la nourriture \u00e9cras\u00e9e une fois par jour, ensuite deux fois par jour, puis trois fois par jour. Il peut vouloir t\u00e9ter avant de manger la nourriture \u00e9cras\u00e9e et apr\u00e8s l'avoir mang\u00e9e. \r\n\r\nIl peut avoir sa premi\u00e8re dent \u00e0 cet \u00e2ge. Les dents du bas poussent g\u00e9n\u00e9ralement en premier. \r\n\r\nIl peut commencer \u00e0 utiliser une de ses mains plus que l'autre. Puis il peut changer de main. Vous ne saurez s'il est gaucher ou droitier que quand il aura 2 ou 3 ans. Laissez-le tenir un petit objet puis le faire passer d'une main \u00e0 l'autre. \u00c7a lui permettra d'apprendre.\r\n\r\nVotre b\u00e9b\u00e9 aime beaucoup jouer \u00e0 cet \u00e2ge. Il aimera passer du temps avec d'autres b\u00e9b\u00e9s.\r\n\r\nSi votre b\u00e9b\u00e9 aime beaucoup un objet ou un jouet, il le prendra avec lui partout o\u00f9 il ira. C'est normal, \u00e7a signifie que votre b\u00e9b\u00e9 commence \u00e0 pouvoir s'\u00e9loigner de vous. Il est rassur\u00e9 par cet objet ou ce jouet plut\u00f4t que par vous.", 
+  "source": "824b8312c88c441e8aa3ae0ed81015cb", 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 6, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "6-mois", 
+  "uuid": "4ed0e02455424c30bae6da194bc9f678"
+}

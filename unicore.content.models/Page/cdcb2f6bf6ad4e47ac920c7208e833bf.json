@@ -1,0 +1,32 @@
+{
+  "subtitle": "Parlez \u00e0 votre b\u00e9b\u00e9, \u00e7a lui permet d'apprendre.", 
+  "description": "Parlez \u00e0 votre b\u00e9b\u00e9, \u00e7a lui permet d'apprendre.", 
+  "language": "fre_FR", 
+  "title": "2 mois", 
+  "primary_category": "c6c39d09bea640889711cd34689c9bc5", 
+  "created_at": "2014-11-26T11:59:22+00:00", 
+  "featured_in_category": true, 
+  "modified_at": "2015-02-20T09:42:49.049055+00:00", 
+  "_version": {
+    "package_version": "0.2.9", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [
+    "4d049df481884c4281310653360e3909", 
+    "25bd565572e145c886fafa4f59681e65"
+  ], 
+  "id": null, 
+  "content": "R\u00e9alis\u00e9 par BabyCenter.\r\n\r\nVotre b\u00e9b\u00e9 est plus fort maintenant. Il peut soulever la t\u00eate pendant quelques secondes. \r\n\r\nIl peut fixer des objets et il voit mieux. Vous le verrez regarder ses propres mains. Il commence \u00e0 comprendre que ce sont ses mains et qu'il peut les utiliser. Il essaiera bient\u00f4t d'attraper des objets. Il entend mieux et sait d'o\u00f9 viennent les sons qu'il entend. Vous le verrez tourner la t\u00eate vers l'endroit d'o\u00f9 viennent les sons.\t\r\n\r\nVotre b\u00e9b\u00e9 restera \u00e9veill\u00e9 plus longtemps dans la journ\u00e9e et voudra jouer \u00e0 certains moments. Il commence \u00e0 reconna\u00eetre le jour et la nuit.\t\r\n\r\nIl pourra bient\u00f4t \u00e9tirer les bras et les jambes. Votre b\u00e9b\u00e9 doit avoir assez d'espace pour \u00e9tirer ses bras et ses jambes. Vous pouvez poser une couverture sur le sol et le laisser s'amuser dessus. Quand il est couch\u00e9 sur le dos, votre b\u00e9b\u00e9 peut agiter ses jambes comme s'il poussait quelque chose avec les pieds. \u00c7a lui permet de d\u00e9velopper ses muscles.\r\n\r\nIl est bien de parler \u00e0 votre b\u00e9b\u00e9 et de chanter pour lui. Il n'est pas trop jeune pour vous entendre. Il apprendra \u00e0 parler en vous \u00e9coutant parler et chanter.\r\n\r\nS'il regarde ailleurs ou ne s'int\u00e9resse plus \u00e0 vous quand vous lui parlez ou quand vous chantez pour lui, essayez quelque chose d'autre ou laissez-le se reposer.", 
+  "source": "b9ad19a5ea794c20879988bc48fba7a1", 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 2, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "2-mois", 
+  "uuid": "cdcb2f6bf6ad4e47ac920c7208e833bf"
+}

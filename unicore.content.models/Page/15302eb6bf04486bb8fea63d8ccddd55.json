@@ -1,0 +1,32 @@
+{
+  "subtitle": "Vous sentez votre b\u00e9b\u00e9 bouger ?", 
+  "description": "Vous sentez votre b\u00e9b\u00e9 bouger ?", 
+  "language": "fre_FR", 
+  "title": "5\u00e8me mois", 
+  "primary_category": "24af8e355b9840ac98d2a441b37b1a62", 
+  "created_at": "2014-11-26T10:18:34+00:00", 
+  "featured_in_category": true, 
+  "modified_at": "2015-02-20T09:33:27.435241+00:00", 
+  "_version": {
+    "package_version": "0.2.9", 
+    "language_version": "2.7.6", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
+    "language": "python", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [
+    "9390a800d2584da7a77f301d297ae0ec", 
+    "e601458a146548d3b222ef2d6cb5afdc"
+  ], 
+  "id": null, 
+  "content": "R\u00e9alis\u00e9 par BabyCenter.\r\n\r\nVotre b\u00e9b\u00e9 ressemble maintenant \u00e0 un petit nouveau-n\u00e9. Ses yeux, ses sourcils et ses paupi\u00e8res se sont form\u00e9s et des dents poussent sous ses gencives. Des papilles se forment sur sa langue et il sera capable de sentir le go\u00fbt de votre lait \u00e0 la premi\u00e8re t\u00e9t\u00e9e. \r\n\r\nUne couche blanche recouvre son corps. Cette couche prot\u00e8ge la peau de votre b\u00e9b\u00e9 et facilite l'accouchement.\r\n\r\nVous pouvez commencer \u00e0 sentir votre b\u00e9b\u00e9 bouger. Vous sentirez comme des bulles dans votre ventre. Vous ne saurez peut-\u00eatre pas ce que c'est au d\u00e9part. \u00c0 5 mois de grossesse vous sentez de plus en plus votre b\u00e9b\u00e9 bouger, et vous le sentez donner des coups de pieds. Vous aimerez sentir votre b\u00e9b\u00e9 bouger !\r\n\r\nVous \u00eates souvent essouffl\u00e9e et vous \u00eates maladroite. C'est parce que vous \u00eates plus lourde. Votre ventre grossit et vous pourrez avoir du mal \u00e0 marcher bien droit.\r\n\r\nVous allez plus souvent aux toilettes et vous avez tr\u00e8s souvent envie d'uriner.\r\n\r\nNe vous inqui\u00e9tez pas si vous saignez lorsque vous vous brossez les dents. Quand vous \u00eates en \u00e9tat, les gencives gonflent et elles ont de tr\u00e8s petites blessures. C'est pourquoi elles saignent. Brossez-vous les dents tous les jours, mais avec douceur.", 
+  "source": "74058f6528c74a70aa020ed63ae7eec2", 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 2, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "5eme-mois", 
+  "uuid": "15302eb6bf04486bb8fea63d8ccddd55"
+}

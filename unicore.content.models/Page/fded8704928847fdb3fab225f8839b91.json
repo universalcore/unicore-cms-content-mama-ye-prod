@@ -1,0 +1,32 @@
+{
+  "subtitle": "Votre b\u00e9b\u00e9 commence \u00e0 marcher.", 
+  "description": "Votre b\u00e9b\u00e9 commence \u00e0 marcher.", 
+  "language": "fre_FR", 
+  "title": "11 mois", 
+  "primary_category": "c6c39d09bea640889711cd34689c9bc5", 
+  "created_at": "2014-11-26T12:14:00+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-02-20T09:55:22.553730+00:00", 
+  "_version": {
+    "package_version": "0.2.9", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [
+    "586e64e70c7049888a01aab4d33ac809", 
+    "800bc3cf0ab7404ab0312c4cb2b9bdb2"
+  ], 
+  "id": null, 
+  "content": "R\u00e9alis\u00e9 par BabyCenter.\r\n\r\nVotre b\u00e9b\u00e9 sait dire des mots ou des sons qui ressemblent \u00e0 des mots. Son cerveau se d\u00e9veloppe et il apprend \u00e0 parler. \u00c9coutez-le attentivement et r\u00e9pondez-lui. \u00c7a l'encouragera.\r\n\r\nIl aura bient\u00f4t un an ! M\u00eame s'il ne comprend pas bien ce qui se passe autour de lui, les f\u00eates avec la famille et les amis le font se sentir en s\u00e9curit\u00e9 et il apprend \u00e0 vivre avec les gens. Il aimera les petites f\u00eates, pas loin de la maison. Il ne sera peut-\u00eatre pas \u00e0 l'aise s'il y a beaucoup de gens autour de lui. \r\n\r\n\u00c0 cet \u00e2ge votre b\u00e9b\u00e9 continue de d\u00e9couvrir les objets en les mettant dans sa bouche. Il peut aussi monter sur une chaise pour attraper un objet trop haut pour lui. Faites attention, surveillez-le et \u00e9loignez tous les objets dangereux.  \r\n\r\nVotre b\u00e9b\u00e9 veut vous faire plaisir, vous pouvez lui apprendre comment vous aider dans la maison. Vous pouvez lui apprendre \u00e0 faire certaines choses dans la maison comme si c'est un jeu. Ne lui faites pas faire des choses difficiles pour lui, et aidez-le.\r\n\r\nVotre b\u00e9b\u00e9 peut d\u00e9j\u00e0 savoir marcher ou il fera bient\u00f4t ses premiers pas. \r\n\r\nVous pouvez vous amuser \u00e0 lui apprendre \u00e0 marcher. Vous pouvez vous tenir debout ou \u00e0 genoux devant lui et lui tendre les mains. Vous pouvez aussi lui tenir les deux mains et le faire marcher vers vous. Il fera ses premiers pas les bras tendus sur les c\u00f4t\u00e9s et pli\u00e9s au niveau des coudes. Il peut aussi \u00e9carter les jambes et envoyer les fesses en arri\u00e8re pour ne pas tomber.", 
+  "source": "0e8f823668084e9faf92d8aa6faeb1de", 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 11, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "11-mois", 
+  "uuid": "fded8704928847fdb3fab225f8839b91"
+}
