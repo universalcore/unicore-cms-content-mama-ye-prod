@@ -4,14 +4,14 @@
   "language": "ara_AE", 
   "title": "\u0627\u0644\u0623\u0628 \u0627\u0644\u0639\u0645\u0644\u064a: \u0641\u064a \u0627\u0646\u062a\u0638\u0627\u0631 \u0637\u0641\u0644 \u0639\u0644\u0649 \u0648\u0634\u0643 \u0623\u0646 \u064a\u064f\u0648\u0644\u062f!", 
   "primary_category": "b8768ac35d2840c7acc89000fc7acc6b", 
-  "created_at": "2015-08-27T15:09:05.947575+00:00", 
+  "created_at": "2015-08-27T15:09:05+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-08-27T15:09:05.947873+00:00", 
+  "modified_at": "2015-08-27T18:10:38.445378+00:00", 
   "_version": {
     "package_version": "1.4.2", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -22,7 +22,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 0, 
+  "position": 17, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "lab-laamly-fy-ntthr-tfl-aal-oshk-yold", 
   "uuid": "2601892d7802478ba494018f1b8478dd"
