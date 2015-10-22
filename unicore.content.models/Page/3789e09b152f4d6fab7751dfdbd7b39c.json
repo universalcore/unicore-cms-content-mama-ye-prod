@@ -1,0 +1,31 @@
+{
+  "subtitle": "FRE Month 3", 
+  "description": "Le c\u0153ur de votre b\u00e9b\u00e9 bat", 
+  "language": "fre_FR", 
+  "title": "3\u00e8me mois", 
+  "primary_category": "24af8e355b9840ac98d2a441b37b1a62", 
+  "created_at": "2014-11-26T10:15:56+00:00", 
+  "featured_in_category": true, 
+  "modified_at": "2015-09-11T09:51:53.750960+00:00", 
+  "_version": {
+    "package_version": "0.2.9", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [
+    "e601458a146548d3b222ef2d6cb5afdc"
+  ], 
+  "id": null, 
+  "content": "R\u00e9alis\u00e9 par Babycenter\r\n\r\nVotre b\u00e9b\u00e9 est encore si petit qu'il pourrait tenir dans la paume de votre main. Il commence \u00e0 avoir des cheveux et un l\u00e9ger duvet de poils recouvre son corps. Sur le bout de ses doigts, de petits traits apparaissent, ce sont ses empreintes digitales.\r\n\r\nVotre b\u00e9b\u00e9 flotte dans un liquide dans votre ventre qui le prot\u00e8ge et le tient au chaud. Les b\u00e9b\u00e9s peuvent avoir le hoquet. Quand il a le hoquet, vous ressentez comme un petit sursaut r\u00e9gulier dans votre ventre pendant quelques minutes.\r\n\r\nVotre \u00e9tat naus\u00e9eux est moins fort \u00e0 partir du troisi\u00e8me mois de grossesse, mais vous serez parfois tr\u00e8s affam\u00e9e. Nourrissez-vous avec des aliments vari\u00e9s chaque jour. Mangez un peu plus que d'habitude \u00e0 chaque repas. Assurez-vous que les aliments que vous mangez soient sains et frais. \u00c9vitez tout ce qui vous semble douteux.\r\n\r\nVous vous sentirez progressivement moins fatigu\u00e9e et vous aurez plus d'\u00e9nergie. Le placenta se d\u00e9veloppe dans votre ventre et est reli\u00e9 \u00e0 votre b\u00e9b\u00e9. Il sera expuls\u00e9 juste apr\u00e8s sa naissance.\r\n\r\nVos v\u00eatements deviennent un peu serr\u00e9s au niveau des hanches et de la poitrine. Votre grossesse sera bient\u00f4t visible, votre ventre s'arrondit.\r\n\r\nEnceinte, vos d\u00e9fenses immunitaires sont plus faibles. Vous serez plus facilement sujette aux rhumes ou encore \u00e0 la toux. Lavez-vous les mains r\u00e9guli\u00e8rement avec du savon et de l'eau pure. C'est le meilleur geste pour se d\u00e9barrasser des microbes.", 
+  "source": "990ba8e3b159434e896167c46d439efc", 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 43, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "fre-month-3", 
+  "uuid": "3789e09b152f4d6fab7751dfdbd7b39c"
+}
