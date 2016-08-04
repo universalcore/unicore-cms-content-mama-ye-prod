@@ -1,0 +1,29 @@
+{
+  "subtitle": "What is BabyCenter?", 
+  "description": "Nous offrons des conseils d'experts sur la grossesse et les b\u00e9b\u00e9s. ", 
+  "language": "fre_FR", 
+  "title": "Qu\u2019est-ce que BabyCenter ?", 
+  "primary_category": "2c822d1c0d1e424ea8eb5d602672311a", 
+  "created_at": "2016-04-19T09:54:57+00:00", 
+  "featured_in_category": true, 
+  "modified_at": "2016-08-04T08:20:47.628428+00:00", 
+  "_version": {
+    "package_version": "1.4.4", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": " \r\n\r\nGr\u00e2ce \u00e0 **BabyCenter**, vous pouvez obtenir les meilleures informations qui soient sur la grossesse et les b\u00e9b\u00e9s. \r\n\r\nPlus de 45 millions de parents suivent nos conseils dans le monde entier.\r\n\r\nNous souhaitons que toutes les femmes enceintes et leurs familles soient en bonne sant\u00e9. \r\n\r\nVous pouvez vous fier aux informations de **BabyCenter**. Tous nos articles sont r\u00e9dig\u00e9s par des experts. Votre bonne sant\u00e9 et celle de votre b\u00e9b\u00e9 sont la priorit\u00e9 de nos experts. \r\n\r\nNous pensons qu\u2019aider une maman, c\u2019est aussi aider ses enfants, sa famille et sa communaut\u00e9. \r\n\r\nProfitez de votre r\u00f4le de parent avec **BabyCenter**!\r\n\r\nPour en savoir plus \r\n\r\n[www.babycenter.fr/][1]\r\n\r\n\r\n(Vous pourriez avoir besoin d\u2019un plan de donn\u00e9es pour acc\u00e9der \u00e0 ce site)\r\n\r\n\r\n  [1]: http://www.babycenter.fr/", 
+  "source": "e9eb3917a2664c329011edcf2990f5b1", 
+  "featured": false, 
+  "author_tags": [], 
+  "image": "0e102f63f26047d8b24bfcdb87c0739a", 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "quest-ce-que-babycenter", 
+  "uuid": "dec87f9f7b894b22aeda2a0fffa326bb"
+}
